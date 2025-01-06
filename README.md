@@ -59,7 +59,6 @@ The project aims to:
   - NumPy (for numerical operations)
   - TensorRT (for model optimization and inference)
   - JSON (for saving and loading model configurations)
-  - PyTorch (optional, if used for comparison)
 
 ---
 
@@ -73,3 +72,5 @@ The project aims to:
   - Average latency for the TensorRT model:
     - Single inference latency: 0.0027 s
     - Batch inference latency (batch_size=64): 12.533 s
+
+---
